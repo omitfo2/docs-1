@@ -79,6 +79,12 @@ A couple of problems in this scenario: <br>
 > Due to missing global standards, developers need to adhere to different conversational platforms guidelines. This results in complexity, heavy maintenance, and support for their voice application.
 
 </details>
+<details><summary>7. mmispronunciations.</summary>
+<br>
+> The user's pronunciation of a word does not exist in the list of valid pronunciations.  For example, the user utters "pitco" which does not match "ditco" or "botcp" or any other pronunciation is the list of valid pronunciations.
+
+</details>
+
 <br>
 <br>
 
